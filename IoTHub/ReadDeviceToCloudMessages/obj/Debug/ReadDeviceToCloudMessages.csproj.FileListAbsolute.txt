@@ -1,0 +1,8 @@
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb

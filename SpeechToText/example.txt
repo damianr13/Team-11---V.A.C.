@@ -1,0 +1,20 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+stop|stop|false
+go|go|false
+back|back|false
+left|left|false
+right|right|false
+half right|half right|false
+half left|half left|false
+Iva do you love me|I have to, you built me|false
+Iva open skype|Do you want me to open skype.exe?|false
+Iva abort|Shutting down the movement system|false
+Iva start listening|Hello, my name is Iva!|false
+Iva who are you|I am the Integrated Vocal Assistant, and I am here to help you access all the features with the help of your voice | false
+Iva tell them|Are you not entertained Microsoft, and long live team 11!| false
+
+Iva firefox|firefox.exe|true
+Iva close firefox|Closing firefox|false

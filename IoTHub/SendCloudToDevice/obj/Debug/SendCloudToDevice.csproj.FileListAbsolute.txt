@@ -1,0 +1,16 @@
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojResolveAssemblyReference.cache
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\bin\Debug\System.Web.Http.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb

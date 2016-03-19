@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HeartRateModelStoreContainer" CdmEntityContainer="IvaDatabase2Entities">
+    <EntitySetMapping Name="HeartRateInfoes">
+      <EntityTypeMapping TypeName="HeartRateModel.HeartRateInfo">
+        <MappingFragment StoreEntitySet="HeartRateInfo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="clientName" ColumnName="clientName" />
+          <ScalarProperty Name="heartRate" ColumnName="heartRate" />
+          <ScalarProperty Name="measureTime" ColumnName="measureTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

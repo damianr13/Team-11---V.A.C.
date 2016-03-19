@@ -1,0 +1,6 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+yes|yes|false
+no|no|false

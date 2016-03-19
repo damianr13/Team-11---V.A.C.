@@ -1,0 +1,10 @@
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\ReceiveFromCloud.exe.config
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\ReceiveFromCloud.exe
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\ReceiveFromCloud.pdb
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\EntityFramework.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\EntityFramework.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\obj\Debug\ReceiveFromCloud.csprojResolveAssemblyReference.cache
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\obj\Debug\ReceiveFromCloud.exe
+C:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\ReceiveFromCloud\obj\Debug\ReceiveFromCloud.pdb

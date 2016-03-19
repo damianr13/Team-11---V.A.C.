@@ -1,0 +1,17 @@
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\obj\Debug\SimulatedDevice.csprojResolveAssemblyReference.cache
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\SimulatedDevice.exe.config
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\SimulatedDevice.exe
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\SimulatedDevice.pdb
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Buffers.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Codecs.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Codecs.Mqtt.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Common.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Handlers.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\DotNetty.Transport.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\Microsoft.Azure.Devices.Client.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\obj\Debug\SimulatedDevice.exe
+c:\Users\Damian\documents\visual studio 2015\Projects\IoTHub\SimulatedDevice\obj\Debug\SimulatedDevice.pdb

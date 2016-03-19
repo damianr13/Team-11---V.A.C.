@@ -1,0 +1,16 @@
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\IoTHub.exe.config
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\IoTHub.exe
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\IoTHub.pdb
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Microsoft.Azure.Amqp.dll
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Microsoft.Azure.Devices.dll
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Newtonsoft.Json.dll
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\System.Web.Http.dll
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Microsoft.Azure.Amqp.xml
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Microsoft.Azure.Devices.xml
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\Newtonsoft.Json.xml
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\bin\Debug\System.Web.Http.xml
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\obj\Debug\CreateDeviceIdentity.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\obj\Debug\IoTHub.exe
+c:\users\damian\documents\visual studio 2015\Projects\IoTHub\IoTHub\obj\Debug\IoTHub.pdb
